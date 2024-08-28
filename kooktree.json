@@ -1,3 +1,4 @@
+
 {
   "Feedback": [
     {
@@ -95,6 +96,163 @@
       "Feedback Title": "视图频道拓展",
       "Feedback Content": "更多视图频道，包括但不限于公告频道、视频频道、图片画廊频道、推送资讯频道等等",
       "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "服务器后台数据展示",
+      "Feedback Content": "服务器后台支持显示更详细的用户数据，包括但不限于服务器活跃排行榜、不同文字频道发言频率、不同语音频道使用频率、Bot使用率、服务器留存率等等。",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "简易服务器升级",
+      "Feedback Content": "服主可新建简易服务器/社区服务器，或者可以一键将简易服务器升级为社区服务器",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "助力服务器权益",
+      "Feedback Content": "助力服务器专属权益，服主可自定义助力者不同的专属权益",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "个性装扮设置",
+      "Feedback Content": "不同服务器中支持设置不同个性装扮",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "临时语音频道",
+      "Feedback Content": "内置自动创建临时语音频道功能，简化语音频道",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "子频道",
+      "Feedback Content": "子频道，支持三级频道目录，也是很重要的社区功能之一，强化社区内容沉淀。",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "服务器专属商店",
+      "Feedback Content": "服务器专属商店，服主可挂上加速器KEY/游戏KEY/游戏周边等服务器相关物品进行售卖盈利",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "隐藏免打扰频道",
+      "Feedback Content": "用户可以彻底隐藏免打扰的频道，可选两种模式：频道列表中只有新消息时显示对应频道/除非自己被艾特，否则一直不显示对应频道。",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "语音专属文字频道入口优化",
+      "Feedback Content": "语音专属文字频道入口优化，例如单独做一个左侧按钮，或者鼠标挪上去自动弹出按钮等等",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "服务器列表滚动优化",
+      "Feedback Content": "左侧服务器列表上下滚动时，私信以及其他功能入口固定不会挪动，优化用户使用体验。",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "关注功能入口优化",
+      "Feedback Content": "关注功能入口优化，例如移动至左边列表顶端，方便高频率使用。",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "客户端更新优化",
+      "Feedback Content": "PC端点击下载客户端按钮时自动检查更新/或加一个检查更新按钮，有新版本时询问是否现在更新。",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "语音ping延迟显示",
+      "Feedback Content": "用户可以开启关闭用户名后面是否显示语音ping延迟大小",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "顶端按钮优化",
+      "Feedback Content": "优化UI顶端按钮，使得帮助中心等按钮不至于存在感过小。",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "置顶功能提醒",
+      "Feedback Content": "优化文字频道的置顶功能，服主/管理员可以设置隔一段时间提醒一次",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "OBS游戏内覆盖样式",
+      "Feedback Content": "OBS游戏内覆盖支持用户自定义样式。可以自行加上头像边框等等，方便更多样化的场景应用",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "欢乐周五复活",
+      "Feedback Content": "每周画小饼/未来功能规划/宣传新功能",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "KOOK功能引导",
+      "Feedback Content": "新增栏目“你不知道的kook”，引导用户使用全新功能/挖掘功能",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "社区功能引导",
+      "Feedback Content": "社区功能上线后，针对性做一些社区引导，教大家如何管理及规划社区",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "开发者招募",
+      "Feedback Content": "社区功能上线后，招募更多端游单机游戏开发者/发行商建立KOOK社区",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "B站公关招募",
+      "Feedback Content": "招个专门负责B站跟其他平台的公关",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "KOOK文本大小调整",
+      "Feedback Content": "用户可以调整KOOK文本大小，全端都支持。",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "功能引导通知",
+      "Feedback Content": "除了B站引导以外，希望KOOK可以活用右上角弹窗/居中弹窗/系统通知，用来提示一些小功能引导",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "消息通知设置",
+      "Feedback Content": "可以分不同频道设置所有消息通知跟仅艾特通知，方便设置部分公告频道的通知。",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "批量删除信息功能",
+      "Feedback Content": "自己可批量删除自己的信息，服主/管理员可批量删除社区用户信息，批量删除信息功能有一定频率限制，防止有人故意发一堆消息刷屏再删除再发，骚扰其他用户",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "角色权限优化",
+      "Feedback Content": "在频道编辑--角色权限里点击添加角色或成员时，请自动跳转到添加的角色或成员，不要留在添加前的角色上",
+      "Timestamp": "null"
     }
   ]
 }
+```
