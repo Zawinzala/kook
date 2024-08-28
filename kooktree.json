@@ -1,16 +1,100 @@
 {
   "Feedback": [
     {
-      "Feedback Provider": "Alice",
-      "Feedback Title": "Park Enhancement Suggestions",
-      "Feedback Content": "Improve lighting in the park.",
-      "Timestamp": "2024-08-28 11:00 AM"
+      "Feedback Provider": "null",
+      "Feedback Title": "邀请链接弹窗",
+      "Feedback Content": "希望能给那些放在个人简介里的邀请链接弹个窗",
+      "Timestamp": "null"
     },
     {
-      "Feedback Provider": "Bob",
-      "Feedback Title": "Park Amenities",
-      "Feedback Content": "Add benches near the playground.",
-      "Timestamp": "2024-08-28 11:15 AM"
+      "Feedback Provider": "null",
+      "Feedback Title": "修改字体大小支持",
+      "Feedback Content": "什么时候KOOK支持修改字体大小（全端）",
+      "Timestamp": "2024-08-15 11:19 PM"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "艾特提醒延迟",
+      "Feedback Content": "如果有人艾特你，KOOK在前台的状态下，不去看消息盒子，艾特的这个数字提醒不会立刻显示，会延迟3秒左右才出现",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "发帖功能",
+      "Feedback Content": "什么时候KOOK推出发帖功能",
+      "Timestamp": "2024-08-14 03:55 PM"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "频道编辑角色权限优化",
+      "Feedback Content": "在频道编辑--角色权限里点击添加角色或成员时，请自动跳转到添加的角色或成员，不要留在添加前的角色上",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "查看成员邀请人数",
+      "Feedback Content": "可一键查看某个成员邀请进服务器人数的总量",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "个人简介字数限制",
+      "Feedback Content": "建议个人简介字数限制放宽，500太低了",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "同服务器好友查看",
+      "Feedback Content": "建议加个和某人同在的服务器，能看和好友同在的服务器以及服务器中有几位好友",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "帖子视图频道",
+      "Feedback Content": "社区初步功能",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "消息预览功能优化",
+      "Feedback Content": "文字频道的消息预览功能优化，优化为仅有未读信息时弹出预览，用户也可自行关闭消息预览。",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "消息跳转功能",
+      "Feedback Content": "消息跳转功能，可跨服务器跨频道分享不同消息的链接，用户点击直接跳转",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "权限系统优化",
+      "Feedback Content": "更加傻瓜式的权限系统，一键私密频道一键高级用户组频道等等，方便小白/非社区用户",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "投票和抽奖功能",
+      "Feedback Content": "直接内置投票、抽奖等基础功能",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "BOT命令提示",
+      "Feedback Content": "支持BOT命令提示和表单",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "服务器显示预览功能",
+      "Feedback Content": "可以切换不同身份组预览服务器显示的功能",
+      "Timestamp": "null"
+    },
+    {
+      "Feedback Provider": "null",
+      "Feedback Title": "视图频道拓展",
+      "Feedback Content": "更多视图频道，包括但不限于公告频道、视频频道、图片画廊频道、推送资讯频道等等",
+      "Timestamp": "null"
     }
   ]
 }
